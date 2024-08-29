@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Berat Celik</h1>
 <h3 align="center">A passionate ML Engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Python,AWS**
+- 🌱 I’m currently learning **AWS**
+
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **beratcelikk02@gmail.com**
 
