@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fbilesanmiahmad%2Fhow-to-upload-a-file-to-amazon-s3-in-python-68757a1867c6&psig=AOvVaw3utRsbxQkOq9wslbATVFXu&ust=1725260224398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjzh6iVoYgDFQAAAAAdAAAAABAE)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1002/1*VU_zxtNS42gfPjJ5xNR7QQ.jpeg)
 <h1 align="center">Hi 👋, I'm Berat Celik</h1>
 <h3 align="center">A passionate Ml Engineer from Türkiye</h3>
 
