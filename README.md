@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Berat Celik</h1>
 <h3 align="center">A passionate Ml Engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS,.Net,React**
 
 - 💬 Ask me about **python**
 
