@@ -132,6 +132,4 @@ If you find my projects or profile useful, feel free to support my work:
 </p>
 
 
-<p align="center">
-  <a href="#top">⬆ Back to Top</a>
-</p>
+
