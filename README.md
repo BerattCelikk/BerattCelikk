@@ -16,6 +16,8 @@
   <h3>🚀 Passionate Machine Learning Engineer & Software Developer</h3>
 </div>
 
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/berat-erol-çelik-513915258/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://medium.com/@beratcelikk02" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"></a>
@@ -30,6 +32,34 @@
   <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Total Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Followers" />
 </p>
+
+---
+
+### 📊 Stats & Activity
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BerattCelikk&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=15&title_color=8A2BE2&icon_color=DA70D6&text_color=fff&ring_color=8A2BE2" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BerattCelikk&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&border_radius=15&title_color=8A2BE2&text_color=fff&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -121,23 +151,7 @@
 
 ---
 
-### 📊 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=BerattCelikk&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=5" alt="trophies" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/BerattCelikk?style=for-the-badge&color=yellow&label=ACCOUNT%20STARS&logo=github" />
-</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
 
 ### 🐍 Contribution Snake
 <p align="center">
