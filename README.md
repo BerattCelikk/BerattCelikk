@@ -97,7 +97,9 @@
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BerattCelikk&theme=dracula" alt="Streak" /></td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
+    </td>
   </tr>
 </table>
 
