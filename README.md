@@ -23,15 +23,46 @@
   <a href="https://www.youtube.com/@Pythoner619" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
   <a href="mailto:beratcelikk02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=TOTAL%20COMMITS&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ABerattCelikk&style=for-the-badge&logo=github" alt="Total Commits" />
+  <img src="https://img.shields.io/github/stars/BerattCelikk?style=for-the-badge&color=yellow&label=TOTAL%20STARS&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Total Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Followers" />
+</p>
+
 ---
 
 ### 💫 About Me
-- 🌱 Currently deep diving into **AWS (Amazon Web Services)**.
-- 💬 Ask me about **Python, Data Science, and Machine Learning**.
-- 📫 Reach me at: **beratcelikk02@gmail.com**
-- 👨‍💻 All of my projects are available at [https://linktr.ee/berattcelikk](https://linktr.ee/berattcelikk)
-- 📝 I regularly write articles on [https://medium.com/@beratcelikk02](https://medium.com/@beratcelikk02)
-- 📄 Know about my experiences [https://projects-vqdy.onrender.com/](https://projects-vqdy.onrender.com/)
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Academic & Leadership</h4>
+      <ul>
+        <li>🚀 <b>3rd Year Software Engineering Student</b> focusing on scalable software systems.</li>
+        <li>🏢 <b>Founder of Codiom</b> leading innovative technology solutions.</li>
+        <li>🤖 <b>AI Mentor</b> providing technical guidance in Machine Learning & AI development.</li>
+        <li>💼 <b>Freelance AI Developer</b> specializing in custom AI solutions, automation, and AI agents.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Current Focus & Goals</h4>
+      <ul>
+        <li>🤖 Building <b>AI Agents</b> and advanced <b>LLM Architectures</b>.</li>
+        <li>⚙️ Implementing <b>AI Automation</b> systems for business efficiency.</li>
+        <li>☁️ Deep diving into <b>AWS Cloud Architecture</b> for model deployment.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+#### 🌐 Connect & Resources
+- 💬 Ask me about: **Python, Data Science, and Machine Learning**.
+- 📝 Technical articles: **[Medium](https://medium.com/@beratcelikk02)**.
+- 👨‍💻 Full portfolio: **[Linktree](https://linktr.ee/berattcelikk)**.
+- 📄 Professional history: **[Web Experiences](https://projects-vqdy.onrender.com/)**.
+- 📫 Contact: **[beratcelikk02@gmail.com](mailto:beratcelikk02@gmail.com)**.
 
 
 ---
@@ -92,7 +123,12 @@
 
 ### 📊 Stats & Activity
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=BerattCelikk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-readme-trophy.vercel.app/?username=BerattCelikk&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=5" alt="trophies" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/BerattCelikk?style=for-the-badge&color=yellow&label=ACCOUNT%20STARS&logo=github" />
 </p>
 
 <table align="center">
