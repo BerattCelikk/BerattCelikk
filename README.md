@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
