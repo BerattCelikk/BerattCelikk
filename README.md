@@ -39,8 +39,8 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BerattCelikk&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=15&title_color=8A2BE2&icon_color=DA70D6&text_color=fff&ring_color=8A2BE2" alt="GitHub Stats" />
+  <td align="center">
+    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BerattCelikk&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=15&title_color=8A2BE2&icon_color=DA70D6&text_color=fff&ring_color=8A2BE2&include_all_commits=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
