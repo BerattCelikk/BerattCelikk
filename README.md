@@ -71,7 +71,7 @@
       <h4>🎓 Academic & Leadership</h4>
       <ul>
         <li>🚀 <b>3rd Year Software Engineering Student</b> focusing on scalable software systems.</li>
-        <li>🏢 <b>Founder of Codiom</b> leading innovative technology solutions.</li>
+        <li>🏢 <b>Founder of Coddiom</b> leading innovative technology solutions.</li>
         <li>🤖 <b>AI Mentor</b> providing technical guidance in Machine Learning & AI development.</li>
         <li>💼 <b>Freelance AI Developer</b> specializing in custom AI solutions, automation, and AI agents.</li>
       </ul>
