@@ -87,12 +87,18 @@
   </tr>
 </table>
 
+#### 🚀 Featured Projects & Products
+
+**AI-Powered SaaS & Business Solutions:**
+- 🤖 **[Coddiom](https://coddiom.com)** - AI Agency | Custom AI Solutions & Automation
+- 📱 **[PostByPrompt.com](https://postbyprompt.com)** - Autonomous Social Media Content Generation SaaS
+- 🏠 **[ÇelikEstate.com](https://celikestate.com)** - AI-Powered Real Estate Portal & Valuation Engine
+
 #### 🌐 Connect & Resources
-- 💬 Ask me about: **Python, Data Science, and Machine Learning**.
+- 💬 Ask me about: **Python, Data Science, Machine Learning, and AI Agents**.
 - 📝 Technical articles: **[Medium](https://medium.com/@beratcelikk02)**.
-- 👨‍💻 Full portfolio: **[Linktree](https://linktr.ee/berattcelikk)**.
-- 📄 Professional history: **[Web Experiences](https://projects-vqdy.onrender.com/)**.
-- 📫 Contact: **[beratcelikk02@gmail.com](mailto:beratcelikk02@gmail.com)**.
+- 👨‍💻 Full portfolio: **[Portfolio](https://portfolio-rust-theta-15.vercel.app/)** | **[Linktree](https://linktr.ee/berattcelikk)**.
+- 📫 Contact: **[beratcelikk02@gmail.com](mailto:beratcelikk02@gmail.com)** | **[LinkedIn](https://linkedin.com/in/berat-erol-çelik-513915258/)**.
 
 
 ---
