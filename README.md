@@ -40,18 +40,16 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BerattCelikk&show_icons=true&theme=dracula&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=dracula&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BerattCelikk&layout=compact&theme=dracula&hide_border=true&border_radius=15&langs_count=10" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BerattCelikk&layout=compact&theme=dracula&hide_border=true&border_radius=15&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
-
-
 
 <table align="center">
   <tr>
@@ -59,9 +57,14 @@
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/beratcelikk02">
+        <img src="https://hackerrank-stats.vercel.app/api?username=beratcelikk02" alt="HackerRank Stats"/>
+      </a>
+    </td>
+  </tr>
 </table>
-
----
 
 ### 💫 About Me
 
