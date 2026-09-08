@@ -40,12 +40,12 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=dracula&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BerattCelikk&layout=compact&theme=dracula&hide_border=true&border_radius=15&langs_count=10" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BerattCelikk&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -54,7 +54,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BerattCelikk&theme=dracula" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BerattCelikk&theme=tokyonight" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
@@ -175,7 +175,7 @@
 
 ### 🏆 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BerattCelikk&theme=dracula&bg_color=12100E&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BerattCelikk&theme=tokyonight&bg_color=12100E&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
