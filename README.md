@@ -25,6 +25,17 @@
 </p>
 <!-- DAILY-LOG-END -->
 
+<!-- KAGGLE-RADAR-START -->
+<p align="center">
+  <a href="https://www.kaggle.com/beraterolelk" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Playground%20S6E9%3A%20Top%2010.2%25%20(%23161)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle S6E9 Rank" />
+    <img src="https://img.shields.io/badge/S6E9%20AUC-0.94638-success?style=for-the-badge" alt="S6E9 AUC Score" />
+    <img src="https://img.shields.io/badge/Daily%20Streak-At%20Risk%20%E2%9A%A0%EF%F0-brightgreen?style=for-the-badge" alt="Kaggle Streak" />
+    <img src="https://img.shields.io/badge/Notebook%20Votes-0%2B-orange?style=for-the-badge" alt="Kaggle Votes" />
+  </a>
+</p>
+<!-- KAGGLE-RADAR-END -->
+
 ---
 
 <p align="center">
