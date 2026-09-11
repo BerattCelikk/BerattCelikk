@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=TOTAL%20COMMITS&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ABerattCelikk&style=for-the-badge&logo=github" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/TOTAL%20COMMITS-3.5K%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Commits" />
   <img src="https://img.shields.io/github/stars/BerattCelikk?style=for-the-badge&color=yellow&label=TOTAL%20STARS&logo=github" alt="Total Stars" />
   <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Total Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Followers" />
@@ -49,7 +49,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&cache_seconds=1800&v=2026-09-11" alt="GitHub Stats" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&cache_seconds=60&v=gold-tier-rank-a" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
