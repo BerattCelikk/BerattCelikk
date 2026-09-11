@@ -45,6 +45,11 @@
 ---
 
 ### 📊 Stats & Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/profile-trophies.svg?v=1" width="100%" alt="GitHub Trophies" />
+</div>
+
 <div align="center">
   <table align="center">
     <tr>
@@ -63,7 +68,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BerattCelikk&theme=tokyonight" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BerattCelikk&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
