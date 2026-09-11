@@ -16,6 +16,15 @@
   <h3>🚀 Passionate Machine Learning Engineer & Software Developer</h3>
 </div>
 
+<!-- DAILY-LOG-START -->
+<p align="center">
+  <a href="https://github.com/BerattCelikk/daily-engineering-log">
+    <img src="https://img.shields.io/badge/Daily%20Engineering%20Log-Active-blueviolet?style=for-the-badge&logo=githubactions" alt="Daily Log" />
+    <img src="https://img.shields.io/badge/Latest%20Insight-Docker%20Layer%20Caching-0db7ed?style=for-the-badge&logo=docker" alt="Latest Insight" />
+  </a>
+</p>
+<!-- DAILY-LOG-END -->
+
 ---
 
 <p align="center">
