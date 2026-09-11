@@ -54,7 +54,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img height="200" src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/github-stats.svg?v=rank-s" alt="GitHub Stats" />
+        <img height="200" src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/github-stats.svg?v=2026-09-11" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
