@@ -74,7 +74,7 @@
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/beratcelikk02">
-        <img src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/hackerrank-badges.svg?v=1" alt="HackerRank Stats"/>
+        <img src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/hackerrank-badges.svg?v=v2-contrast" alt="HackerRank Stats"/>
       </a>
     </td>
   </tr>
