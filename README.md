@@ -49,7 +49,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&cache_seconds=60&v=gold-tier-rank-a" alt="GitHub Stats" />
+        <img height="200" src="https://github-stats-extended.vercel.app/api?username=BerattCelikk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=60&v=rank-aplus-upgrade" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
