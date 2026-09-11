@@ -23,20 +23,6 @@
     <img src="https://img.shields.io/badge/Latest%20Insight-PostgreSQL%20Indexing%3A%20Partial%20Ind-0db7ed?style=for-the-badge&logo=postgresql" alt="Latest Insight" />
   </a>
 </p>
-
-<div align="center">
-
-### ⚡ Recent Engineering Architecture Logs
-| Date | Category | Topic & Implementation | Architecture |
-| :---: | :---: | :--- | :---: |
-| `2026-09-11` | `PostgreSQL` | [PostgreSQL Indexing: Partial Index](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-postgresql-indexing-partial-in-xz7t.md) | [Architecture 📊](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-postgresql-indexing-partial-in-xz7t.md#architecture-diagram) |
-| `2026-09-11` | `PostgreSQL` | [PostgreSQL Indexing: Partial Index](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-postgresql-indexing-partial-in-6dy0.md) | [Architecture 📊](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-postgresql-indexing-partial-in-6dy0.md#architecture-diagram) |
-| `2026-09-11` | `PostgreSQL` | [Optimizing Query Performance with Partial Indexes](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-optimizing-query-performance-w-r4eg.md) | [Architecture 📊](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-optimizing-query-performance-w-r4eg.md#architecture-diagram) |
-| `2026-09-11` | `PostgreSQL` | [Optimizing Queries with PostgreSQL Partial Indexes](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-optimizing-queries-with-postgr-xq1s.md) | [Architecture 📊](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-11-optimizing-queries-with-postgr-xq1s.md#architecture-diagram) |
-| `2026-09-10` | `Docker` | [Multi-Stage Dockerfile for Lean Images](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-10-multi-stage-dockerfile-for-lea-cb8y.md) | [Architecture 📊](https://github.com/BerattCelikk/daily-engineering-log/blob/main/docs/daily-log/2026-09-10-multi-stage-dockerfile-for-lea-cb8y.md#architecture-diagram) |
-
-[📖 Explore All Daily Logs in daily-engineering-log →](https://github.com/BerattCelikk/daily-engineering-log)
-</div>
 <!-- DAILY-LOG-END -->
 
 ---
