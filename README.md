@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/BerattCelikk/daily-engineering-log">
     <img src="https://img.shields.io/badge/Daily%20Engineering%20Log-Active-blueviolet?style=for-the-badge&logo=githubactions" alt="Daily Log" />
-    <img src="https://img.shields.io/badge/Latest%20Insight-Optimizing%20Query%20Performance%20wit-0db7ed?style=for-the-badge&logo=postgresql" alt="Latest Insight" />
+    <img src="https://img.shields.io/badge/Latest%20Insight-PostgreSQL%20Indexing%3A%20Partial%20Ind-0db7ed?style=for-the-badge&logo=postgresql" alt="Latest Insight" />
   </a>
 </p>
 <!-- DAILY-LOG-END -->
