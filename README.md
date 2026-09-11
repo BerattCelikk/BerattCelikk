@@ -1,6 +1,6 @@
 <div id="top"></div>
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=BerattCelikk&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=BerattCelikk&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1002/1*VU_zxtNS42gfPjJ5xNR7QQ.jpeg" alt="MasterHead" width="100%">
@@ -74,7 +74,7 @@
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/beratcelikk02">
-        <img src="https://hackerrank-stats.vercel.app/api?username=beratcelikk02" alt="HackerRank Stats"/>
+        <img src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/hackerrank-badges.svg?v=1" alt="HackerRank Stats"/>
       </a>
     </td>
   </tr>
