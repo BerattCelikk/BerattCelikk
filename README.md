@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/BerattCelikk/daily-engineering-log">
     <img src="https://img.shields.io/badge/Daily%20Engineering%20Log-Active-blueviolet?style=for-the-badge&logo=githubactions" alt="Daily Log" />
-    <img src="https://img.shields.io/badge/Latest%20Insight-PostgreSQL%20Indexing%3A%20Partial%20Ind-0db7ed?style=for-the-badge&logo=postgresql" alt="Latest Insight" />
+    <img src="https://img.shields.io/badge/Latest%20Insight-Terraform%20Remote%20S3%20State%20with%20D-0db7ed?style=for-the-badge&logo=terraform" alt="Latest Insight" />
   </a>
 </p>
 <!-- DAILY-LOG-END -->
@@ -65,7 +65,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img height="200" src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/github-stats.svg?v=2026-09-11" alt="GitHub Stats" />
+        <img height="200" src="https://raw.githubusercontent.com/BerattCelikk/BerattCelikk/main/assets/github-stats.svg?v=2026-09-12" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
