@@ -42,7 +42,6 @@
   <a href="https://linkedin.com/in/berat-erol-çelik-513915258/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://medium.com/@beratcelikk02" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"></a>
   <a href="https://kaggle.com/beraterolelk" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"></a>
-  <a href="https://www.youtube.com/@Pythoner619" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
   <a href="mailto:beratcelikk02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
 </p>
 
