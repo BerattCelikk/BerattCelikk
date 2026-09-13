@@ -28,10 +28,12 @@
 <!-- KAGGLE-RADAR-START -->
 <p align="center">
   <a href="https://www.kaggle.com/beraterolelk" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Playground%20S6E9%3A%20Top%2010.2%25%20(%23161)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle S6E9 Rank" />
-    <img src="https://img.shields.io/badge/S6E9%20AUC-0.94638-success?style=for-the-badge" alt="S6E9 AUC Score" />
+    <img src="https://img.shields.io/badge/Kaggle-Playground%20S6E9%3A%20Top%2010%25%20(%23161)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle S6E9 Rank" />
+    <img src="https://img.shields.io/badge/ARC--AGI--2-31.39%20Score%20(Global%20Top%20~200)-8B5CF6?style=for-the-badge&logo=kaggle&logoColor=white" alt="ARC-AGI-2" />
+    <img src="https://img.shields.io/badge/BioHub%20Cell%20Tracking-0.145%20(%2460k%20Prize)-10B981?style=for-the-badge&logo=kaggle&logoColor=white" alt="BioHub Cell Tracking" />
+    <img src="https://img.shields.io/badge/RSNA%20Knee%20MRI-0.506%20AUC%20(%2477k%20Prize)-F59E0B?style=for-the-badge&logo=kaggle&logoColor=white" alt="RSNA Knee MRI" />
+    <img src="https://img.shields.io/badge/Kaggle%20Models-4%20SOTA%20Published-3B82F6?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Models" />
     <img src="https://img.shields.io/badge/Daily%20Streak-Active%20%E2%9C%85-brightgreen?style=for-the-badge" alt="Kaggle Streak" />
-    <img src="https://img.shields.io/badge/Notebook%20Votes-172%2B-orange?style=for-the-badge" alt="Kaggle Votes" />
   </a>
 </p>
 <!-- KAGGLE-RADAR-END -->
@@ -51,6 +53,33 @@
   <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Total Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBerattCelikk&style=for-the-badge&logo=github" alt="Followers" />
 </p>
+
+---
+
+### 📝 Latest Deep-Dive Engineering Articles on Medium
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://medium.com/@beratcelikk02"><strong>🧩 Cracking the $1.1M ARC-AGI Challenge: How Symbolic Symmetry & D4 Dihedral Invariance Scored 31.39</strong></a><br/>
+      <em>Few-shot inductive reasoning, discrete dihedral group search, and our solution reaching global Top ~200.</em>
+    </td>
+    <td width="50%">
+      <a href="https://medium.com/@beratcelikk02"><strong>📊 Mastering Kaggle Tabular Competitions: Adversarial Validation (AUC 0.50285) & Rank Stacking</strong></a><br/>
+      <em>CTGAN synthetic drift mitigation, target encoding out-of-fold, and securing a Top 10% Bronze Medal in S6E9.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://medium.com/@beratcelikk02"><strong>🔬 Volumetric Cell Tracking in Compressed 4D Microscopy: Overcoming Blosc2 Zarr & Hungarian Matching</strong></a><br/>
+      <em>Solving the 0.000 hurdle in Chan Zuckerberg BioHub $60k Challenge to reach 0.145.</em>
+    </td>
+    <td width="50%">
+      <a href="https://medium.com/@beratcelikk02"><strong>🩻 Breaking the 0.500 ROC-AUC Barrier on RSNA Knee MRI: Multi-Signal Pathology Decomposition</strong></a><br/>
+      <em>Why constant Bayesian priors fail under ROC-AUC, and how decomposing fluid, disruption, and sclerosis scored 0.506 in the $77k challenge.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
