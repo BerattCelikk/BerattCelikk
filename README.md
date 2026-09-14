@@ -38,6 +38,14 @@
 </p>
 <!-- KAGGLE-RADAR-END -->
 
+<p align="center">
+  <strong>⭐ Enjoying my work?</strong> If this profile, my Daily Engineering Log, or Kaggle solutions helped you — please <a href="https://github.com/BerattCelikk/BerattCelikk"><strong>⭐ Star this repo</strong></a> and my pinned repos! It helps others discover the work and keeps the daily log streak alive.
+</p>
+<p align="center">
+  <a href="https://star-history.com/#BerattCelikk/BerattCelikk&Date"><img src="https://api.star-history.com/svg?repos=BerattCelikk/BerattCelikk&type=Date" alt="Star History" /></a>
+</p>
+
+
 ---
 
 <p align="center">
